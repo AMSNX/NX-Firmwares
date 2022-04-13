@@ -1,0 +1,89 @@
+{
+    "bootloaders": {
+        "hekate_ctcaer_5.7.2_Nyx_1.2.2.zip": "https://github.com/CTCaer/hekate/releases/download/v5.7.2/hekate_ctcaer_5.7.2_Nyx_1.2.2.zip",
+        "argon-nx.zip": "https://github.com/Guillem96/argon-nx/releases/download/1.1-alpha/argon-nx.zip"
+    },
+    "cfws": {
+        "Atmosphere": {
+            "atmosphere-1.3.1-master-62eb4d698+hbl-2.4.1+hbmenu-3.5.0.zip": "https://github.com/Atmosphere-NX/Atmosphere/releases/download/1.3.1/atmosphere-1.3.1-master-62eb4d698%2Bhbl-2.4.1%2Bhbmenu-3.5.0.zip"
+        },
+        "GMPack": {
+			"GMPACK 14.1.0-3 | AMS 1.3.1 (11-04-2022)": "https://github.com/coldmvm/gmpack/releases/download/14.1.0-3/GMPACK_14.1.0-3_11_04_2022.zip"
+        }
+    },
+    "hekate": {
+        "hekate_ctcaer_5.7.2_Nyx_1.2.2.zip": "https://github.com/CTCaer/hekate/releases/download/v5.7.2/hekate_ctcaer_5.7.2_Nyx_1.2.2.zip"
+    },
+    "payloads": {
+        "fusee.bin": "https://github.com/Atmosphere-NX/Atmosphere/releases/download/1.3.1/fusee.bin",
+        "Lockpick_RCM.bin": "https://github.com/shchmue/Lockpick_RCM/releases/download/v1.9.8/Lockpick_RCM.bin",
+        "TegraExplorer.bin": "https://github.com/suchmememanyskill/TegraExplorer/releases/download/4.0.1-hotfix2/TegraExplorer.bin"
+    },
+    "sigpatches": {
+        "Supports HOS firmware 14.1.0 and AMS 1.3.1": "https://github.com/ITotalJustice/patches/releases/download/14.1.0-1.3.1/SigPatches.zip"
+    },
+    "firmwares": {
+        "Firmware 14.1.0": "https://archive.org/download/nintendo-switch-global-firmwares/Firmware%2014.1.0.zip",
+        "Firmware 14.0.0": "https://archive.org/download/nintendo-switch-global-firmwares/Firmware%2014.0.0.zip",
+        "Firmware 13.2.1": "https://archive.org/download/nintendo-switch-global-firmwares/Firmware%2013.2.1.zip",
+        "Firmware 13.2.0": "https://archive.org/download/nintendo-switch-global-firmwares/Firmware%2013.2.0.zip",
+        "Firmware 13.1.0": "https://archive.org/download/nintendo-switch-global-firmwares/Firmware%2013.1.0.zip",
+        "Firmware 13.0.0": "https://archive.org/download/nintendo-switch-global-firmwares/Firmware%2013.0.0.zip",
+        "Firmware 12.1.0": "https://archive.org/download/nintendo-switch-global-firmwares/Firmware%2012.1.0.zip",
+        "Firmware 12.0.3": "https://archive.org/download/nintendo-switch-global-firmwares/Firmware%2012.0.3.zip",
+        "Firmware 12.0.2": "https://archive.org/download/nintendo-switch-global-firmwares/Firmware%2012.0.2.zip",
+        "Firmware 12.0.1": "https://archive.org/download/nintendo-switch-global-firmwares/Firmware%2012.0.1.zip",
+        "Firmware 12.0.0": "https://archive.org/download/nintendo-switch-global-firmwares/Firmware%2012.0.0.zip",
+        "Firmware 11.0.1 (Rebootless Update)": "https://archive.org/download/nintendo-switch-global-firmwares/Firmware%2011.0.1%20%28Rebootless%20Update%29.zip",
+        "Firmware 11.0.1": "https://archive.org/download/nintendo-switch-global-firmwares/Firmware%2011.0.1.zip",
+        "Firmware 11.0.0": "https://archive.org/download/nintendo-switch-global-firmwares/Firmware%2011.0.0.zip",
+        "Firmware 10.2.0": "https://archive.org/download/nintendo-switch-global-firmwares/Firmware%2010.2.0.zip",
+        "Firmware 10.1.0": "https://archive.org/download/nintendo-switch-global-firmwares/Firmware%2010.1.0.zip",
+        "Firmware 10.0.4": "https://archive.org/download/nintendo-switch-global-firmwares/Firmware%2010.0.4.zip",
+        "Firmware 10.0.3": "https://archive.org/download/nintendo-switch-global-firmwares/Firmware%2010.0.3.zip",
+        "Firmware 10.0.2": "https://archive.org/download/nintendo-switch-global-firmwares/Firmware%2010.0.2.zip",
+        "Firmware 10.0.1": "https://archive.org/download/nintendo-switch-global-firmwares/Firmware%2010.0.1.zip",
+        "Firmware 10.0.0": "https://archive.org/download/nintendo-switch-global-firmwares/Firmware%2010.0.0.zip",
+        "Firmware 9.2.0": "https://archive.org/download/nintendo-switch-global-firmwares/Firmware%209.2.0.zip",
+        "Firmware 9.1.0": "https://archive.org/download/nintendo-switch-global-firmwares/Firmware%209.1.0.zip",
+        "Firmware 9.0.1": "https://archive.org/download/nintendo-switch-global-firmwares/Firmware%209.0.1.zip",
+        "Firmware 9.0.0": "https://archive.org/download/nintendo-switch-global-firmwares/Firmware%209.0.0.zip",
+        "Firmware 8.1.1": "https://archive.org/download/nintendo-switch-global-firmwares/Firmware%208.1.1.zip",
+        "Firmware 8.1.0": "https://archive.org/download/nintendo-switch-global-firmwares/Firmware%208.1.0.zip",
+        "Firmware 8.0.1": "https://archive.org/download/nintendo-switch-global-firmwares/Firmware%208.0.1.zip",
+        "Firmware 8.0.0": "https://archive.org/download/nintendo-switch-global-firmwares/Firmware%208.0.0.zip",
+        "Firmware 7.0.1": "https://archive.org/download/nintendo-switch-global-firmwares/Firmware%207.0.1.zip",
+        "Firmware 7.0.0": "https://archive.org/download/nintendo-switch-global-firmwares/Firmware%207.0.0.zip",
+        "Firmware 6.2.0": "https://archive.org/download/nintendo-switch-global-firmwares/Firmware%206.2.0.zip",
+        "Firmware 6.1.0": "https://archive.org/download/nintendo-switch-global-firmwares/Firmware%206.1.0.zip",
+        "Firmware 6.0.1": "https://archive.org/download/nintendo-switch-global-firmwares/Firmware%206.0.1.zip",
+        "Firmware 6.0.0 (Pre-release)": "https://archive.org/download/nintendo-switch-global-firmwares/Firmware%206.0.0%20%28Pre-release%29.zip",
+        "Firmware 6.0.0 (Release)": "https://archive.org/download/nintendo-switch-global-firmwares/Firmware%206.0.0%20%28Release%29.zip",
+        "Firmware 5.1.0": "https://archive.org/download/nintendo-switch-global-firmwares/Firmware%205.1.0.zip",
+        "Firmware 5.0.2": "https://archive.org/download/nintendo-switch-global-firmwares/Firmware%205.0.2.zip",
+        "Firmware 5.0.1": "https://archive.org/download/nintendo-switch-global-firmwares/Firmware%205.0.1.zip",
+        "Firmware 5.0.0": "https://archive.org/download/nintendo-switch-global-firmwares/Firmware%205.0.0.zip",
+        "Firmware 4.1.0": "https://archive.org/download/nintendo-switch-global-firmwares/Firmware%204.1.0.zip",
+        "Firmware 4.0.1": "https://archive.org/download/nintendo-switch-global-firmwares/Firmware%204.0.1.zip",
+        "Firmware 4.0.0": "https://archive.org/download/nintendo-switch-global-firmwares/Firmware%204.0.0.zip",
+        "Firmware 3.0.2": "https://archive.org/download/nintendo-switch-global-firmwares/Firmware%203.0.2.zip",
+        "Firmware 3.0.1": "https://archive.org/download/nintendo-switch-global-firmwares/Firmware%203.0.1.zip",
+        "Firmware 3.0.0": "https://archive.org/download/nintendo-switch-global-firmwares/Firmware%203.0.0.zip",
+        "Firmware 2.3.0": "https://archive.org/download/nintendo-switch-global-firmwares/Firmware%202.3.0.zip",
+        "Firmware 2.2.0": "https://archive.org/download/nintendo-switch-global-firmwares/Firmware%202.2.0.zip",
+        "Firmware 2.1.0": "https://archive.org/download/nintendo-switch-global-firmwares/Firmware%202.1.0.zip",
+        "Firmware 2.0.0": "https://archive.org/download/nintendo-switch-global-firmwares/Firmware%202.0.0.zip",
+        "Firmware 1.0.0": "https://archive.org/download/nintendo-switch-global-firmwares/Firmware%201.0.0.zip",
+        "[China Firmware] Firmware 14.1.0": "https://archive.org/download/nintendo-switch-china-firmwares/Firmware%2014.1.0.zip",
+        "[China Firmware] Firmware 14.0.0": "https://archive.org/download/nintendo-switch-china-firmwares/Firmware%2014.0.0.zip",
+        "[China Firmware] Firmware 13.2.1": "https://archive.org/download/nintendo-switch-china-firmwares/Firmware%2013.2.1.zip",
+        "[China Firmware] Firmware 11.0.1 (Rebootless Update)": "https://archive.org/download/nintendo-switch-china-firmwares/Firmware%2011.0.1%20%28Rebootless%20Update%29.zip",
+        "[China Firmware] Firmware 11.0.1": "https://archive.org/download/nintendo-switch-china-firmwares/Firmware%2011.0.1.zip",
+        "[China Firmware] Firmware 11.0.0": "https://archive.org/download/nintendo-switch-china-firmwares/Firmware%2011.0.0.zip",
+        "[China Firmware] Firmware 10.2.0": "https://archive.org/download/nintendo-switch-china-firmwares/Firmware%2010.2.0.zip",
+        "[China Firmware] Firmware 10.1.1": "https://archive.org/download/nintendo-switch-china-firmwares/Firmware%2010.1.1.zip"
+    },
+    "hekate_ipl": {
+        "hekate_ipl.ini": "https://raw.githubusercontent.com/HamletDuFromage/nx-links/master/resources/hekate_ipl.ini"
+    }
+}
