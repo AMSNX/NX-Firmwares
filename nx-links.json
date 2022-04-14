@@ -7,7 +7,7 @@
         "Atmosphere": {
             "atmosphere-1.3.1-master-62eb4d698+hbl-2.4.1+hbmenu-3.5.0.zip": "https://github.com/Atmosphere-NX/Atmosphere/releases/download/1.3.1/atmosphere-1.3.1-master-62eb4d698%2Bhbl-2.4.1%2Bhbmenu-3.5.0.zip"
         },
-        "CNXPack": {
+        "GMPack": {
 			"CNX 1.3.1-1 | AMS 1.3.1 (11-04-2022)": "https://github.com/AMSNX/CNX/releases/download/CNX_1.3.1-1/CNX_1.3.1-1.zip"
         }
     },
